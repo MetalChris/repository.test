@@ -21,11 +21,6 @@
     <email></email>
     <source></source>
   </extension>
-  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
-      <info>http://www.the-antinet.com/addons/addons.xml</info>
-      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
-      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
-  </extension>
 </addon>
 
 <addon id="plugin.video.edge" name="Edge.org" version="0.0.4" provider-name="MetalChris">
@@ -75,11 +70,6 @@
     <email></email>
     <source></source>
   </extension>
-  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
-      <info>http://www.the-antinet.com/addons/addons.xml</info>
-      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
-      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
-  </extension>
 </addon>
 
 <addon id="plugin.video.carbon-tv" name="CarbonTV" version="0.0.1" provider-name="MetalChris">
@@ -127,11 +117,6 @@
     <email></email>
     <source></source>
   </extension>
-  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
-      <info>http://www.the-antinet.com/addons/addons.xml</info>
-      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
-      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
-  </extension>
 </addon>
 
 <addon id="plugin.video.bigstar" name="BigStar Movies" version="0.1.4" provider-name="MetalChris">
@@ -153,11 +138,6 @@
     <website></website>
     <email></email>
     <source></source>
-  </extension>
-  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
-      <info>http://www.the-antinet.com/addons/addons.xml</info>
-      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
-      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
   </extension>
 </addon>
 
@@ -205,11 +185,6 @@
     <email></email>
     <source></source>
   </extension>
-  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
-      <info>http://www.the-antinet.com/addons/addons.xml</info>
-      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
-      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
-  </extension>
 </addon>
 
 <addon id="plugin.video.weathernation" name="WeatherNation TV" version="0.0.3" provider-name="MetalChris">
@@ -255,11 +230,6 @@
     <website></website>
     <email></email>
     <source></source>
-  </extension>
-  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
-      <info>http://www.the-antinet.com/addons/addons.xml</info>
-      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
-      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
   </extension>
 </addon>
 </addons>
