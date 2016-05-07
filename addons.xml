@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.animalist" name="Animalist" version="3.0.2" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Animalist</summary>
+    <description lang="en">Animalist, a Discovery Digital Network, is all about animals…from cats to dinosaurs! Animalist is your destination for all things animal on the web. From the exotic to the domestic, from the cute to the weird, we cover the whole animal kingdom.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
+      <info>http://www.the-antinet.com/addons/addons.xml</info>
+      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
+  </extension>
+</addon>
+
+<addon id="plugin.video.edge" name="Edge.org" version="0.0.4" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Edge.org</summary>
+    <description lang="en">To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.discovery-channels" name="Discovery Channels" version="3.1.7" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Discovery Channels</summary>
+    <description lang="en">Watch FREE full episodes and short videos from the various Discovery channels including Discovery, Discovery Science, Investigation Discovery, Animal Planet, and more.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
+      <info>http://www.the-antinet.com/addons/addons.xml</info>
+      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
+  </extension>
+</addon>
+
+<addon id="plugin.video.carbon-tv" name="CarbonTV" version="0.0.1" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">CarbonTV</summary>
+    <description lang="en">Watch video clips and full episodes from CarbonTV, the premier online video destination for premium outdoor themed shows and engaging personalities.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.lifechurch" name="Life.Church" version="0.0.2" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Life.Church</summary>
+    <description lang="en">Life.Church wants to make a lasting difference in your life, in our community, and in the world.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
+      <info>http://www.the-antinet.com/addons/addons.xml</info>
+      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
+  </extension>
+</addon>
+
+<addon id="plugin.video.bigstar" name="BigStar Movies" version="0.1.4" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">BigStar Movies</summary>
+    <description lang="en">Stream movies instantly! Choose from thousands of independent, foreign and award-winning feature films and TV shows.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
+      <info>http://www.the-antinet.com/addons/addons.xml</info>
+      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
+  </extension>
+</addon>
+
+<addon id="plugin.video.charlierose" name="Charlie Rose" version="0.0.3" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Charlie Rose</summary>
+    <description lang="en">Watch videos from charlierose.com - Since 1991, “Charlie Rose” has engaged America’s best thinkers, writers, politicians, athletes, entertainers, business leaders, scientists and other newsmakers in one-on-one interviews and roundtable discussions.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.internetarchive" name="Internet Archive [Audio]" version="3.0.5" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Internet Archive</summary>
+    <description lang="en">Internet Archive is a non-profit digital library.  Choose from thousands of recordings ranging from alternative news programming, to Grateful Dead concerts, to Old Time Radio shows, to book and poetry readings, to original music uploaded by our users.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
+      <info>http://www.the-antinet.com/addons/addons.xml</info>
+      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
+  </extension>
+</addon>
+
+<addon id="plugin.video.weathernation" name="WeatherNation TV" version="0.0.3" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+        <import addon="xbmc.python" version="2.1.0"/>
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">WeatherNation</summary>
+    <description lang="en">Delivers the latest in-depth local, regional and national weather video, forecasts, maps, radar, news, satellite maps and alerts on WeatherNation.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>English</language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.internetarchive" name="Internet Archive [Video]" version="3.0.6" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Internet Archive</summary>
+    <description lang="en">Internet Archive is a non-profit digital library.  Choose from thousands of digital movies uploaded by Archive users which range from classic full-length films, to daily alternative news broadcasts, to cartoons and concerts.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+  <extension point="xbmc.addon.repository" name="MetalChris's Add-on Repository">
+      <info>http://www.the-antinet.com/addons/addons.xml</info>
+      <checksum>http://www.the-antinet.com/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://www.the-antinet.com/addons/</datadir>
+  </extension>
+</addon>
+</addons>
